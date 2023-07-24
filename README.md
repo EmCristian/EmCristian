@@ -2,9 +2,9 @@
 
 
 
-- 🎓 Fresh young graduate
+- 🎓 Young fresh graduate
 - ♟️ Chess player ( targeting NM )
-- 🕥 Lost time is never found again
+- 🕥 Time is now
 
 ### Tools:
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
