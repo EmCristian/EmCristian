@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Emi
 
-## Tools
+
+
+- 🎓 Fresh young graduate
+- ♟️ Chess player ( targeting NM )
+- 🕥 Lost time is never found again.
+
+### Tools:
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
