@@ -2,7 +2,6 @@
 
 
 
-- 🎓 Young fresh graduate
 - ♟️ Chess player ( targeting NM )
 - 🕥 Time is now
 
