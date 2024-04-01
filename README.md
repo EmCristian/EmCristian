@@ -2,7 +2,6 @@
 
 
 
-- ♟️ Chess player ( targeting NM )
 - 🕥 Time is now
 
 ### Tools:
